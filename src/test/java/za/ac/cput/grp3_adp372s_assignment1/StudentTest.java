@@ -1,5 +1,11 @@
 package za.ac.cput.grp3_adp372s_assignment1;
-
+/*
+ *
+ * Author: Emilio Castano
+ * StudentNumber: 219035709
+ * Uplaoding via Git to Git-Hub
+ *
+ */
 import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
