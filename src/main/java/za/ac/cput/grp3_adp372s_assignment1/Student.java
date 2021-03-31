@@ -3,7 +3,7 @@ package za.ac.cput.grp3_adp372s_assignment1;
 *
 * Author: Emilio Castano
 * StudentNumber: 219035709
-* Uplaoding via Git to Git-Hub
+* Uplaoding Maven project to Git-hub
 *
  */
 public class Student {
